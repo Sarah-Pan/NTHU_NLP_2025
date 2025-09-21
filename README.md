@@ -1,1 +1,1 @@
-This Repo Contains my Assignments in 2025 NLP course offered in NTHU.
+- This Repo Contains my Assignments in 2025 NLP course offered in NTHU.
